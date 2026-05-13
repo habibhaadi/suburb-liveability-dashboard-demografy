@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+
+pipeline/data/*.zip
+pipeline/data/*.shp
+pipeline/data/*.dbf
+pipeline/data/*.prj
+pipeline/data/*.cpg
+pipeline/data/*.shx
