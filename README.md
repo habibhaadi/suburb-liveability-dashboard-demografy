@@ -4,7 +4,7 @@
 
 Try the app here:
 
-https://your-app.streamlit.app
+https://suburb-liveability-dashboard-demografy.streamlit.app/
 
 Most suburb comparison tools feel like someone dumped census tables into a website and called it a day.
 
