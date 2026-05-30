@@ -1,7 +1,5 @@
 # suburb-liveability-dashboard-demografy
 
-## Live Demo
-
 Try the app here:
 
 https://suburb-liveability-dashboard-demografy.streamlit.app/
